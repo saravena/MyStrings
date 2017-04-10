@@ -2,7 +2,6 @@
 /*************************************************************
 * Project:   What's the Password?: mystrings.c               *
 * Name:      Sabrina Aravena                                 *
-* Due :      October 23, 2016                                *
 **************************************************************/
 
 #include <stdio.h>
